@@ -1,1 +1,36 @@
+{
 
+  "ads":[
+    {
+      "AdmobInterstitial":"",
+      "AdmobBanner":"4",
+      "AdmobNative" : "",
+
+      "FaceInterstitial":"",
+      "FaceBanner":"",
+      "FaceNative" : "",
+
+      "UnityGame":"",
+      "UnityInterstitial":"Interstitial_Android",
+      "UnityBanner":"Banner_Android",
+
+      "ApplovinInterstitial":"",
+      "ApplovinBanner":"",
+       
+      "ApplovinInterstitialMax":"",
+      "ApplovinBannerMax":"",
+      "ApplovinNativeMax" : "",
+
+      "IronInterstitial" : "",
+      "IronBanner" : "",
+	  
+	  
+     // admob or fan or max or unity or iron
+      "Network":"admob"
+	  
+ 
+    }
+  ]
+
+
+}
